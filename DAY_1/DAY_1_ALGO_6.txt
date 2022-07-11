@@ -1,0 +1,5 @@
+1. Get the student attendence as a input.
+2. Tranversing in loop the attendence which have lower order comes first.
+3. Compare 2 attendence with each other whose order is lower then stored in a variable.
+4. As same process which have done until last attendence.
+5. After loop over print the values which is stored in variable.   
