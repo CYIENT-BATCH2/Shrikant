@@ -1,0 +1,4 @@
+1. Take the Input from user
+2.check the number is which coming is that number is divisible or not not if it is divisible means its called as a special number
+3.after that we have to add 1 that number and called also special number.
+4.if that condition is true then only its special number other wise its not special number
