@@ -1,0 +1,6 @@
+1.In this program, the user is asked to input a character which is stored on variable ch.
+2. printf the charcter which is stored on variable ch in format specifier %d.
+3. It will shows ASCII value of that charcter.
+
+
+
