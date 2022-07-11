@@ -1,0 +1,5 @@
+1. We have to find the area of circle then have to use the formula for calculating the area.
+2. we have to take input as a radius from end user.
+3. Also we can define that micro the value pi.
+4. we have a formula for that so we get direct area of that radius
+
