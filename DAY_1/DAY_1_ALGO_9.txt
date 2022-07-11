@@ -1,0 +1,16 @@
+1. If we print the truth table of AND & OR & NOT,So we ask for the user which truth table they want.
+2. user gives input which truth table want.
+3. Created that perticular function for the truth table,so user input directly goes to that function.
+4. In that function initi. the variables as like truth table input, like Input X and Input Y.
+5. In AND Operation if 2 inputs like 1 1 given then output is 1 another are 0.
+   Using Logical AND we get that condition true or false.
+   Assinging that true or false to variables.
+   Print That all variables to get Output.
+6. In OR operation if 2 Inputs like 0 0 then output will be 0 other are 1.
+   Using Logical AND we get that condition true or false.
+   Print That all variables to get Output.
+7. In Not operation in if it is zero then it converts into 1 nd vice versa.
+   Using the Equality Operation conpare that it is 0 or 1.
+   Print That all variables to get Output.
+
+   
