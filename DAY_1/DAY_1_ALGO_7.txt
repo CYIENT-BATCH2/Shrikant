@@ -1,0 +1,5 @@
+1. Ask for the input from user.
+2. Traverse in that number in loop which the its comes and looks like original form.
+3. for that we have the formula like sum=sum*10+rem.
+4. then check that number is like original.
+5. if confirmed that its original then that number is palindrome other wise not palindrome. 
