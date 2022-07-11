@@ -1,0 +1,7 @@
+1. we find the odd and even number from the given input.
+2. check each number from the given is even or odd.
+3. take a loop for treverse in that given number.
+4. check that number is divisible by 2 and if reminder is zero
+5. take one count to count that number
+6. if that condition is not satisfy then take another count for another condition.
+7.take one loop to calculate the counts if it is equal euqal 2 then it is even otherwise odd
