@@ -1,0 +1,6 @@
+1. Ask to user to give a input string.
+2.Then we have to check that in string vowels present or not.
+3.If this string containing vowels then we have to find that vowels using condition.
+4.If vowels are found there then take 1 count for counting the vowels 
+5.After that couner will said that how many vowels in there string.
+6.If no vowels in the string its said no vowels in string. 
