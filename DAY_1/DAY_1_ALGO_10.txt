@@ -1,0 +1,9 @@
+1. Takes the input like weights from the user.
+2. Comparing the 3 weights and comparing that which one is biggest.
+3. 1st weight comparares like greater than the 2nd and 3rd weight.
+4. if the 1st is greater than that number is biggest other 2 numbers.
+5. If 2st weight comparares like greater than the 1st and 3rd weight.
+   the 2st is greater than that number is biggest other 2 numbers.
+6. If that 2 are not biggest then 3rd one is biggest.
+
+ 
