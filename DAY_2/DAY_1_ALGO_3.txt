@@ -1,4 +1,0 @@
-1. Take the Input from user assuming any number.
-2. How many times they do handshakes multiplied one number get minus how many numbers takes
-3. Then divided by 2.
-4. After that using this type of formula we get how many handshakes they done.

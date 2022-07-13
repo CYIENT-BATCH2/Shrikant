@@ -1,4 +1,0 @@
-1. Take the input from user.
-2. For printing the binery use need to bit.
-3. If that number is shifted in right side then its divided by 2.
-4. For the using the condition print the digit to binery

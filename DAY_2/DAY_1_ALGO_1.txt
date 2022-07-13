@@ -1,4 +1,0 @@
-1. Ask to user the input the number.
-2. Take the each seprate number from the given input.
-3. Add the number in previous number and save in another variable;
-4. Print the Variable to get the sum

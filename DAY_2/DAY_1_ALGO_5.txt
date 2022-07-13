@@ -1,7 +1,0 @@
-1. Take that number is Encoded in message in run time.
-2. Find the number is less than 9, Take the loop for that.
-3. IF less than 9 take set a each number has a perticuler charcter which is encoded in message.
-4. If it contain space then increated number.
-5. If that number more than 9 that will take another loop for that.
-6. Also set that each number having a perticular charcter.
-7.using that logic print that number is converted in charcter
