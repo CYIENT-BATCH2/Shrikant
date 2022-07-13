@@ -1,0 +1,2 @@
+1. Take the input from user as decimal number.
+2. print the number in hexadecimal using format specifier %x.

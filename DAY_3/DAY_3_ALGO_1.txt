@@ -1,0 +1,4 @@
+1. take the variable from user,steps are same for that intger and float.
+2. we have the sum logic that one by one take and add next to previous.
+3. FInding for the average need to sum dividing by the how many numbers, so we get average value.
+4. converting float value to into integer,multiply to that iteger value.

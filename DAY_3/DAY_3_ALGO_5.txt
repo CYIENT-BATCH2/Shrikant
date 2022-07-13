@@ -1,0 +1,2 @@
+1. We have the hexadecimal number in compiler time.
+2. Right Shift that hexadecimal number by 3. 

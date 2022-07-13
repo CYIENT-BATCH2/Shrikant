@@ -1,0 +1,4 @@
+1. Take the input from the user.
+2. Take a loop that traverse that number by one by one.
+3. take the reverse logic as well that number will be reverse.
+4. After that print that reverse num. 

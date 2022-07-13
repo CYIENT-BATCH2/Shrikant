@@ -1,0 +1,12 @@
+1. User will decide that what he find for him choice, that input gives back the operation output.
+2. If user choose the Hexadecimal to Binery then control goes to that function and doing that operation like
+   again ask for that values in hexadcimal for printing binery of that number shifting the bit towards right side
+   and doing and operation, prinf the loop in format specifier %d, get user output.
+3. same as Others process when user gives input in binery number that it converted into hexadecimal, taking each bit
+   adding and then multiply that constant number as 2.
+4. For hexadecimal to decimal right shift the number bit by bit after than doing operation with and
+   Printing in %d to get decimal values.
+5. For printing binery of that number shifting the bit towards right side and doing and operation,
+   prinf the loop in format specifier %d, get user output.
+6. user have a choice to what he wants
+

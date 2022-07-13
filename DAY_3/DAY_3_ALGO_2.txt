@@ -1,0 +1,5 @@
+1. take the input from the user as number.
+2. take a loop for that number traversing.
+3. count the how many numbers,while counting check the count is equal to 2 and 5
+4. sum of that count and stored in another variable.
+5. printf that variable.

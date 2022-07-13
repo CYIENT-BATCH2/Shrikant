@@ -1,0 +1,4 @@
+1. Take a charcter from the user to check is alphabet or not.
+2. Check that lower case and upper case also using that Logical and between small letter and big letter also.
+3. both upper and lower case should be check that using logical OR to check.
+4. using ternery operator if its true then print Alphabet other wise Not Alphabet

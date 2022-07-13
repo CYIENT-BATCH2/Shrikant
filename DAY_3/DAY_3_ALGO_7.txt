@@ -1,0 +1,5 @@
+1. Take the input from the user as birth year and also month.
+2. Minus that year from current year and multiply by 12.
+3. Minus also birth month form 7.
+4. age formula is that year -month divided by 12
+5. printf the calculation so we get age
