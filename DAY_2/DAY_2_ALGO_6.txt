@@ -1,0 +1,8 @@
+1. Ask to user that which have to know celcius or fareenhit in float.
+2. Take Switch condition and takes 2 cases respectively.
+3. Take the celcius temp from user
+4. Have the formula of farrhnit we use there to calculate farrhnit.
+5. If user wants to find in celcius.
+6. Same has the takes input for that farrenhit 
+7. Also have the celcius formula we have to keep it to calculated celcius.
+8. using that type of logic user get to choosenwhat they want to calculated

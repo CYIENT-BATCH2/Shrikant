@@ -1,0 +1,6 @@
+1. Takes the input from user as lottery tickets.
+2. Need to find that how many times 3 numbers cames in that ticket that is luckiest.
+3. Seprate that total number into one by one number ad check if its equal to 3 or not.
+4. If found same as number 3 then count increasing.
+5. All the process in a loop for starting to end to finding the how many numbers in same as 3.
+6. Printf that count to show the how many luckiest number in tickets.
