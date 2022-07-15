@@ -1,0 +1,4 @@
+1. Take the data and position from the user which having toggling the bit.
+2. Using the formula of Toggle bit, first left shift that of 1 by the given bit.
+3. After that data and that transfer bit performing the EX-OR operation from 0to 1 and vice varsa.
+4. That time the bit is Toggle.print it.

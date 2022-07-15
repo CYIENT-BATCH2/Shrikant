@@ -1,0 +1,3 @@
+1. Take to the two input from user.
+2. First Addition of two number and stored in first variable then substract both number and stored in second variable last substract again and stored into first variable.
+3. Number swapped and print  

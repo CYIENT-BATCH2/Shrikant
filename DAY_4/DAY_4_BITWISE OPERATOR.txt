@@ -1,0 +1,2 @@
+1. In Bitwise Operator they perform that operation like AND OR and EX-OR.
+2. In AND OR and EX-OR operation they perform their truth table

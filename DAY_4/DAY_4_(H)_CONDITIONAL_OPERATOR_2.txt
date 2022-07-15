@@ -1,0 +1,4 @@
+1. User from the input.
+2. Even number is whose reminder of containing 0 by using modula by 2.
+3. Odd number is not containing the reminder 0 when using modula by 2.
+4. using that logic find out the even and odd.

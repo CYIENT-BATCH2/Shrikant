@@ -1,0 +1,4 @@
+1. Take one input from user any number.
+2. If that number is greater than than 0 that number is positive.
+3. If that number is less than 0 then it is negative number.
+4. Using the Conditonal operator find that the number is positive or not.

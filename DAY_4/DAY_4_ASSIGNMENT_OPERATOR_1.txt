@@ -1,0 +1,3 @@
+1. Take to the two input from user.
+2. Transfer the first variable into temp variable then second variable into first varible then transfer temp variable into second variable 
+3. Number swapped and print  

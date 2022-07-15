@@ -1,0 +1,2 @@
+1. Finding the size of all opeator.
+2.We have the sizeof operator for finding the size of that operator.

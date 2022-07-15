@@ -1,0 +1,4 @@
+1. Take the number from the user.
+2. Check that number is not equal to 0.
+3. Substract that given number by 1 and doing AND operation with Given data,also check that equal to 0.
+then it is number is power of 2.

@@ -1,0 +1,3 @@
+1. In Relational Operator the expression output is true(1) or false(1).
+2. If that true it gives that variable value and false then gives that vaiables values.
+3. by solving that expression get that true or false means that value get in output.

@@ -1,0 +1,2 @@
+1. In that Logical Operator they gives the value true or false in operation like AND OR and NOT.
+2. using 2 variables values they check from that truth table

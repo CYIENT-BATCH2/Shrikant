@@ -1,0 +1,4 @@
+1. Take the data and position from the user which having set the bit.
+2. Using the formula of set bit, first left shift that of 1 by the given bit.
+3. After that data and that transfer bit performing the OR operation.
+4. That time the bit is set.print it.
