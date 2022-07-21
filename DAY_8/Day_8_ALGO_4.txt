@@ -1,0 +1,4 @@
+1. Take input from user as data and position also.
+2. call a function from main function 
+3. we have that toggle bit formula for flip the bit and return value to be returned to main function.
+4. After the result we can print the binaery of that output.
