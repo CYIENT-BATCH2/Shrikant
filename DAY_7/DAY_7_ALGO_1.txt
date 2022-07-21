@@ -1,0 +1,3 @@
+1.initi. the hexadecimal value .
+2. take one pointer and give address that pointer.
+3. take for loop and print that in same type.

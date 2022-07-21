@@ -1,0 +1,5 @@
+1. Take the value from the user for ADCON register.
+2. Check that bit given in problem is there set or not if set then Ask for input for CMCON register.
+3. If not set then bit of ADCON then process will terminated.
+4. Clear the that perticular bit we can do clear bit logic for that bit with the CMCON register input.
+5. At the end print to check that bit clear or not.

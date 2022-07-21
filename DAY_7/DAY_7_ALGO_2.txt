@@ -1,0 +1,5 @@
+1. Take the input from user.
+2. Print the binery from that number. 
+3. The even bit and shift Right side for Even bit.
+2. The odd bits and shift Left side these Odd bit.
+3. Combine the shifted values of odd and even bits and doing OR operation 
