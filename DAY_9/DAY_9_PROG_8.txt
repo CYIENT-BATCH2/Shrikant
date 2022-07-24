@@ -1,0 +1,3 @@
+1. Take the value for ADCON
+2. Check the Value is qual to 0x06,If true that condition Ask for CMCON register.
+3. set the bit for CMCON register if that CHS3, CHS2, CHS1 bits are not set

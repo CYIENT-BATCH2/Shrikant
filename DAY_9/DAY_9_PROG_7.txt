@@ -1,0 +1,6 @@
+1. tAKE THE INPUT FOR THE SSPSTAT regi.
+2. check that number is equal to that bit, if same then that bit already set.
+3. IF not then do the OR operation for that bit CKE, P and S bit
+4. But first check that if that number is equal to 0x0f regi,
+5. If equal then doing the ADDING operation with UA, BF, SMP bit.
+6. print the value
