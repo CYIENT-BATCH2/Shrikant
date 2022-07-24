@@ -1,0 +1,4 @@
+1. Declaring the array with size and other variable and taking the input from user
+2. Call a one function with recursion method with sorting the numbers.
+3. By comparing the Loops compare the index by index and swap them.
+4. Call again the function for repeating process
