@@ -1,0 +1,5 @@
+1. Take the sorted array initilize.
+2. Take he size of array using formula.
+3. Take the number from user to search in that array.
+4. Compare that number with the user number with equality operator.
+5. print that the index number
